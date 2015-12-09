@@ -27,7 +27,7 @@ Tested on Chrome 26.0, Firefox 20.0, Safari 5.1.7, IE 10, Opera 16.0. Limited su
 - Facebook: https://www.facebook.com/rashidali.pk99
 - GitHub: https://github.com/rashidali-pk
 
-Made with :heart: **Pakistan**
+Made with :heart: in **Pakistan**
 
 ## License
 
