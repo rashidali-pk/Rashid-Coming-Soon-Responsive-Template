@@ -19,7 +19,7 @@ $(function() {
     
     
     $('.tweet').twittie({
-        username: 'rashidali_pk', // change username here
+        username: 'rashidali05', // change username here
         dateFormat: '%b. %d, %Y',
         template: '{{tweet}} {{user_name}}',
         count: 10
@@ -40,7 +40,7 @@ $(function() {
    ========================================================================== */
     
     $('.countdown').downCount({
-        date: '1/10/2016 12:00:00' // m/d/y
+        date: '05/24/2018 12:00:00' // m/d/y
     });
 
 
