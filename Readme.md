@@ -5,7 +5,7 @@
 
 Tested on Chrome 26.0, Firefox 20.0, Safari 5.1.7, IE 10, Opera 16.0. Limited support for IE8/9.
 
-[Check out the demo here.](http://rashidali98.github.io/Rashid-Coming-Soon-Responsive-Template/demo/)
+[Check out the demo here.](http://rashidali05.github.io/Rashid-Coming-Soon-Responsive-Template/demo/)
 
 ## Features
 
@@ -25,7 +25,7 @@ Tested on Chrome 26.0, Firefox 20.0, Safari 5.1.7, IE 10, Opera 16.0. Limited su
 - Email: rashidali.pk99@gmail.com
 - Twitter: http://twitter.com/rashidali_pk
 - Facebook: https://www.facebook.com/rashidali.pk99
-- GitHub: https://github.com/rashidali-pk
+- GitHub: https://github.com/rashidali05
 
 Made with :heart: in **Pakistan**
 
