@@ -23,8 +23,8 @@ Tested on Chrome 26.0, Firefox 20.0, Safari 5.1.7, IE 10, Opera 16.0. Limited su
 ## Author
 
 - Email: rashidali.pk99@gmail.com
-- Twitter: http://twitter.com/rashidali_pk
-- Facebook: https://www.facebook.com/rashidali.pk99
+- Twitter: http://twitter.com/rashidali05
+- Facebook: https://www.facebook.com/rashidali05
 - GitHub: https://github.com/rashidali05
 
 Made with :heart: in **Pakistan**
