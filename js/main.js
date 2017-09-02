@@ -14,33 +14,11 @@ $(function() {
 
 
     /* ==========================================================================
-   Tweet
-   ========================================================================== */
-    
-    
-    $('.tweet').twittie({
-        username: 'rashidali_pk', // change username here
-        dateFormat: '%b. %d, %Y',
-        template: '{{tweet}} {{user_name}}',
-        count: 10
-    }, function() {
-        var item = $('.tweet ul');
-        
-        item.children('li').first().show().siblings().hide();
-        setInterval(function() {
-            item.find('li:visible').fadeOut(500, function() {
-                $(this).appendTo(item);
-                item.children('li').first().fadeIn(500);
-            });
-        }, 5000);
-    });
-
-    /* ==========================================================================
    countdown
    ========================================================================== */
     
     $('.countdown').downCount({
-        date: '1/10/2016 12:00:00' // m/d/y
+        date: '5/24/2025 12:00:00' // m/d/y
     });
 
 
