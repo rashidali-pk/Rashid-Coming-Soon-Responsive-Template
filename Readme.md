@@ -1,7 +1,7 @@
 # Rashid  – Coming Soon Responsive Template
 
 
-**Rashid  – Coming Soon Responsive Template** is the perfect template for your landing page, toggle function/audio with config file, very easy  :heart:
+**Rashid  – Coming Soon Responsive Template** is the perfect template for your freelancer/web agencies!
 
 Tested on Chrome 26.0, Firefox 20.0, Safari 5.1.7, IE 10, Opera 16.0. Limited support for IE8/9.
 
