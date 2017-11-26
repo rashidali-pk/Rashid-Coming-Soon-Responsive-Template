@@ -40,10 +40,11 @@ Just submit an issue or pull request through GitHub. Thanks!
 
 ## Connect with Me
 
-- Email: rashidali.pk99@gmail.com
+- Website: http://realrashid.com
+- Email: realrashid05@gmail.com
 - Twitter: http://twitter.com/rashidali05
 - Facebook: https://www.facebook.com/rashidali05
-- GitHub: https://github.com/rashidali05
+- GitHub: https://github.com/realrashid
 
 
 # License
